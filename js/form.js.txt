@@ -1,0 +1,5 @@
+document.getElementById('commissionForm').addEventListener('submit', function(e) {
+  e.preventDefault();
+  alert('Thank you! Your commission request has been submitted.');
+  this.reset();
+});
