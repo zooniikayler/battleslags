@@ -34,6 +34,8 @@ main {
 
 .art-item img {
   width: 100%;
+  max-width: 300px;
+  height: auto;
   border-radius: 5px;
 }
 
@@ -58,5 +60,6 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
+
 
 
