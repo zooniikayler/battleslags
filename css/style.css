@@ -56,9 +56,16 @@ form input, form textarea {
 button {
   padding: 10px;
   background: #191919;
+  color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
+}
+
+.featured-image img {
+  width: 100%;   
+  height: auto;  
+  display: block; 
 }
 
 
