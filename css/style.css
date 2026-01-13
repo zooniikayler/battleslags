@@ -1,13 +1,13 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Consolas, "Courier New", monospace;
   margin: 0;
   padding: 0;
-  background: #fdf6f0;
-  color: #333;
+  background: #323232;
+  color: #e5e5e5;
 }
 
 header {
-  background: #e1c699;
+  background: #191919;
   padding: 20px;
   text-align: center;
 }
@@ -15,7 +15,7 @@ header {
 nav a {
   margin: 0 10px;
   text-decoration: none;
-  color: #333;
+  color: #e5e5e5;
 }
 
 nav a:hover {
@@ -58,3 +58,4 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
+
